@@ -5,8 +5,12 @@ A testing / sandbox repo. (A fictitious aircraft manufacturing process.)
 ### This is the design stage.  
 Conceptual drawings are created and checked by multiple designers for accuracy.
 
-## 2. Testing
+## 2. Prototyping
+### This is the unit-testing stage.
+Based on the design, a few models (prototypes) are created and prepared for testing.
+
+## 3. Testing
 ###  This is the testing stage.
 The aircraft is put through a series of ground and flight tests.
 
-> Sun 09-Nov-2025 @ 11h40
+> Sun 09-Nov-2025 @ 11210
