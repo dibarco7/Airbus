@@ -13,4 +13,4 @@ Based on the design, a few models (prototypes) are created and prepared for test
 ###  This is the testing stage.
 The aircraft is put through a series of ground and flight tests.
 
-> Sun 09-Nov-2025 @ 11210
+> Sun 09-Nov-2025 @ 12h10, typo corrected @ 12h20
